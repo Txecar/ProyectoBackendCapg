@@ -1,7 +1,7 @@
 package com.capgemini.entities;
 
 public interface IPersona {
-	// comentario
+	// comentario 
 	public static void morir() {
 		
 	}
